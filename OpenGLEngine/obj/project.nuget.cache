@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ppUcYi2sHwDcnHTtGT3Yexb7zKOFJxFJL2kQJLiO4/55E8CXQQQyoWPOMr0CYTNDeMWd7iqB48U+1Nbux61XA==",
+  "dgSpecHash": "ceXSVFgYP4k4gvXZUHY8bHx0slMJDDziuzNwP0kbTlJRssYzFObCaXLCiiwgKLwLNgJF/zol0uLQrYQc7cvEnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tony\\dev\\projects\\openGL-game\\Project\\OpenGLEngine\\OpenGLEngine\\OpenGLEngine.csproj",
+  "projectFilePath": "C:\\Users\\Tony\\Documents\\GitHub\\opengl-engine\\OpenGLEngine\\OpenGLEngine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
